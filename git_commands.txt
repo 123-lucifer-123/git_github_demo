@@ -1,0 +1,8 @@
+git remote add origin                                                
+   3 git remote -                                                                                                                 
+   4 git remote -v                                                                                                                
+   5 git remote set-url origin                                                                                                    
+   6 git remote set-url origin     
+   7 git remote -v                                                                                                                
+   8 git push origin master 
+   
